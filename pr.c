@@ -16,4 +16,8 @@ for (i = 2; i <= num / 2; ++i) {
         }
  if (isPrime)
             printf("%d is a prime number.\n", num);
+ else
+            printf("%d is not a prime number.\n", num);
+    }
+
 
