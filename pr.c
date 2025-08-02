@@ -20,4 +20,5 @@ for (i = 2; i <= num / 2; ++i) {
             printf("%d is not a prime number.\n", num);
     }
 
-
+return 0;
+}
